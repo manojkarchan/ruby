@@ -1,5 +1,5 @@
 {
-  "applocation": "ruby /var/cloudbox/CBApp/RubySDK_HelloWorld_plugin/src/RubySDK_HelloWorld_mano.rb",
+  "applocation": "ruby /var/cloudbox/CBApp/RubySDK_HelloWorld_plugin/src/mano.rb",
   "apptype": "SHELL",
   "outputLogPath": "RubySDK_HelloWorld_plugin.cloudbox",
   "params": {  
